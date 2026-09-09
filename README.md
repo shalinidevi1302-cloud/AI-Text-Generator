@@ -69,7 +69,7 @@ Generated text is displayed
 
 ## 👩‍💻 Author
 
-**[YOUR NAME]**
+Shalini Devi.V
 B.Sc. Computer Science with Artificial Intelligence
 
 ## ⭐ Support
